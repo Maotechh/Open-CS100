@@ -5,8 +5,20 @@ A Better One without nonsense.
 **🫡Great force creates miracles. & Salute the legendary CS100 TA.**  
 
 This project contains a student ID hash conversion tool for converting hashed IDs in grade files back to real student IDs.  
+
+
+    
 > "Because the mapping is one-way, the full table can be shared without leaking anyone’s ID."
+
+**Reality:** Because the student IDs are public, the mapping can be easily unmapped.
   
+> "Student IDs, whether raw or hashed, are personal data."
+
+**Reality:** Seriously? Hashed student IDs are ‘personal data’ but publishing grades is fine? Get your priorities straight — grades > raw ID > hashed ID.  
+
+> "Likewise, viewing or attempting to view any grade other than your own is prohibited."
+
+**Reality:** If viewing others' grades is prohibited, then don’t share everyone’s grades in a single XLSX file. Hashed IDs ≠ privacy. Use Gradescope or Blackboard like a sane system.
 
 ### hash_to_student_id.py
 
