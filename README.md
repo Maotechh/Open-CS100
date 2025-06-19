@@ -2,7 +2,7 @@
 A Better One without nonsense.
 
 ## Tool Description
-**🫡Great force creates miracles. & Salute the legendary CS100 TA.**
+**🫡Great force creates miracles. & Salute the legendary CS100 TA.**  
 This project contains a student ID hash conversion tool for converting hashed IDs in grade files back to real student IDs.  
 > "Because the mapping is one-way, the full table can be shared without leaking anyone’s ID."
   
