@@ -107,4 +107,4 @@ Student ID,Score,Grade
 
 ## License
 
-This project follows the corresponding open source license, see the `license` file for details.
+This project follows the WTFPL license, you can do what the fxxk you want to freely.
