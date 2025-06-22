@@ -1,7 +1,7 @@
 # Open-CS100
 A Better One without nonsense.  
 
-**🫡Great force creates miracles. & Salute the legendary CS100 TA.**  
+## **🫡Great force creates miracles. & Salute the legendary CS100 TA.**  
   
 > "Because the mapping is one-way, the full table can be shared without leaking anyone’s ID."  
 
